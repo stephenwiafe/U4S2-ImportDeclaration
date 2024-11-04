@@ -2,7 +2,7 @@
 
 * Part B - Foundations 4.2
 
-# U3S2 - Import Declaration
+# U4S2 - Import Declaration
 
 ### Example and Activity 01
 
